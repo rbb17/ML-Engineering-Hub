@@ -36,6 +36,8 @@ A one-stop resource center for everything related to ML Engineering.
 - 🚗 [Michelangelo: Uber’s ML Platform](https://eng.uber.com/michelangelo-machine-learning-platform/)
 - 📦 [Scaling ML Workflows with Michelangelo](https://www.uber.com/blog/michelangelo-ml-platform/)
 
+### Misc
+- [ML Models to production](https://stackoverflow.blog/2020/10/12/how-to-put-machine-learning-models-into-production/)
 ---
 
 ## 📘 Tutorials
