@@ -7,14 +7,8 @@ A one-stop resource center for everything related to ML Engineering.
 ## 📑 Index
 
 - [🔥 Must-Read Blogs](#-must-read-blogs)
-  - [🔴 Netflix](#-netflix)
-  - [🟠 AWS](#-aws)
-  - [🔵 Google](#-google)
-  - [⚫ Uber](#-uber)
+
 - [📘 Tutorials](#-tutorials)
-  - [🧠 Foundational Courses](#-foundational-courses)
-  - [🛠️ Practical Tutorials](#-practical-tutorials)
-  - [⚙️ MLOps and Production](#-mlops-and-production)
 
 ---
 
