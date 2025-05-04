@@ -1,6 +1,20 @@
-# Awesome ML Engineering 🚀
+# ML Engineering Hub 🚀
 
-A curated list of insightful blogs and real-world case studies in Machine Learning Engineering.
+A one-stop resource center for everything related to ML Engineering.
+
+---
+
+## 📑 Index
+
+- [🔥 Must-Read Blogs](#-must-read-blogs)
+  - [🔴 Netflix](#-netflix)
+  - [🟠 AWS](#-aws)
+  - [🔵 Google](#-google)
+  - [⚫ Uber](#-uber)
+- [📘 Tutorials](#-tutorials)
+  - [🧠 Foundational Courses](#-foundational-courses)
+  - [🛠️ Practical Tutorials](#-practical-tutorials)
+  - [⚙️ MLOps and Production](#-mlops-and-production)
 
 ---
 
@@ -31,8 +45,8 @@ A curated list of insightful blogs and real-world case studies in Machine Learni
 - 📚 [Elements of AI](https://www.elementsofai.com/): An accessible course designed to introduce the basics of AI to a wide audience.
 
 ### 🛠️ Practical Tutorials
-- 📺 [Machine Learning for Everyone – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg): :contentReference[oaicite:12]{index=12}
-- 📘 [Dive into Deep Learning](https://d2l.ai/): :contentReference[oaicite:15]{index=15}:contentReference[oaicite:17]{index=17}
+- 📺 [Machine Learning for Everyone – Full Course](https://www.youtube.com/watch?v=i_LwzRVP7bg)
+- 📘 [Dive into Deep Learning](https://d2l.ai/)
 
 ### ⚙️ MLOps and Production
 - 🛠️ [Machine Learning Engineering for Production (MLOps) by DeepLearning.AI](https://www.deeplearning.ai/programs/machine-learning-engineering-for-production-mlops/)
@@ -40,4 +54,3 @@ A curated list of insightful blogs and real-world case studies in Machine Learni
 ---
 
 Feel free to contribute by suggesting more resources or tutorials!
-
